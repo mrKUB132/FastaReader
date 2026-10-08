@@ -24,4 +24,4 @@
    Распакуйте и положите файл `uniprot_sprot.fasta` в корень проекта.
 
 ## Запуск
-python FastaTest.py
+python Fasta.py
